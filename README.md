@@ -74,10 +74,11 @@ python src/preprocessing.py
 ## 👥 Authors
 * **Esho Emmanuella** - *Team Lead*
 * **Ibrahim Keji Awotedu** - *Initial Setup & ML Pipeline*
-* **Copy and Add your name** - *Task*
+* **Temitope Iwashokun** - *Team member*
 
 ## 🤝 Contributing
 1. Create a new feature branch (`git checkout -b feature/your-feature-name`)
 2. Commit your changes (`git commit -m "Add some feature"`)
 3. Push to the branch (`git push origin feature/your-feature-name`)
+
 4. Open a Pull Request for review. Direct pushes to `main` are disabled to avoid losing work.
