@@ -73,8 +73,8 @@ python src/preprocessing.py
 
 ## 👥 Authors
 * **Esho Emmanuella** - *Team Lead*
-* **Ibrahim Keji Awotedu** - *Initial Setup & ML Pipeline*
-* **Temitope Iwashokun** - *Team member*
+* ** [@BruceIsBat](https://github.com/BruceIsBat)
+* ** [@OtherAuthor](https://github.com/OtherAuthor)
 
 ## 🤝 Contributing
 1. Create a new feature branch (`git checkout -b feature/your-feature-name`)
@@ -82,3 +82,4 @@ python src/preprocessing.py
 3. Push to the branch (`git push origin feature/your-feature-name`)
 
 4. Open a Pull Request for review. Direct pushes to `main` are disabled to avoid losing work.
+
