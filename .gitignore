@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+=======
+employee_env/
+>>>>>>> d33853dee4afefdc1f56d7d666a73cdbe50451a2
