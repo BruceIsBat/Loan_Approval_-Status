@@ -76,7 +76,8 @@ python src/preprocessing.py
 * ** [@Awotedu Ibrahim](https://github.com/BruceIsBat)
 * ** [@Ozono Ofeoghena Blessing](https://github.com/Username)
 * ** [@Ajiborisade Ekundayo](https://github.com/ajiborishade) 
-* ** [@Temitope Iwashokun](https://github.com/TemiDavid) #copy and add your name
+* ** [@Temitope Iwashokun](https://github.com/TemiDavid)
+* ** [@Akinlawon Ladimeji](https://github.com/LadiLawon) #copy and add your name
 ## 🤝 Contributing
 1. Create a new feature branch (`git checkout -b feature/your-feature-name`)
 2. Commit your changes (`git commit -m "Add some feature"`)
