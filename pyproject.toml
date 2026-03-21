@@ -1,0 +1,33 @@
+[build-system]
+requires = ['setuptools>=61.0', 'wheel']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = 'loan-approval-status'
+version = '0.1.0'
+description = 'Employee loan approval ML project'
+readme = 'README.md'
+requires-python = '>=3.10'
+authors = [{name = 'Esho Emmanuella'}]
+
+[project.dependencies]
+pandas = "^2.3"
+scikit-learn = "^1.7"
+xgboost = "^3.2"
+imbalanced-learn = "^0.14"
+joblib = "^1.5"
+pydantic = "^2.0"
+python-dotenv = "^1.0"
+
+[project.optional-dependencies]
+api = ["fastapi>=0.100", "uvicorn[standard]>=0.23"]
+dev = ["pytest>=7.0", "black>=23.0", "ruff>=0.1", "mypy>=1.0"]
+all = ["fastapi>=0.100", "uvicorn[standard]>=0.23", "pytest>=7.0", "black>=23.0", "ruff>=0.1", "mypy>=1.0"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = ["-ra", "-q", "--strict-markers"]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
