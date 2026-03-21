@@ -6,9 +6,9 @@ employee_env/
 .ipynb_checkpoints/
 
 # Data and outputs
-# data/raw/
-# data/processed/
-# models/
+data/raw/
+data/processed/
+models/
 
 # System
 .DS_Store
