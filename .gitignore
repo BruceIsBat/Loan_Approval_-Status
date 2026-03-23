@@ -191,3 +191,39 @@ __marimo__/
 scripts/
 src/
 tests/
+
+# Virtual environments
+venv/
+env/
+employee_env/
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and cache
+*.log
+*.tmp
+.cache/
+*.sqlite3
+
+# Raw data files
+data/raw/
+*.csv
+*.xlsx
+
+# Large model files
+models/
+*.joblib
+*.pkl
+*.h5
+*.model
+
+# Environment variables
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
